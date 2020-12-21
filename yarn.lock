@@ -2469,7 +2469,7 @@ axe-core@^4.0.2:
 
 axios@^0.21.0:
   version "0.21.0"
-  resolved "https://registry.npmjs.org/axios/-/axios-0.21.0.tgz"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.0.tgz#26df088803a2350dff2c27f96fef99fe49442aca"
   integrity sha512-fmkJBknJKoZwem3/IKSSLpkdNXZeBu5Q7GA/aRsr2btgrptmSCxi2oFjZHqGdK9DoTil9PIHlPIZw2EcRJXRvw==
   dependencies:
     follow-redirects "^1.10.0"
@@ -8927,7 +8927,7 @@ react-dev-utils@^11.0.1:
 
 react-dom@^0.0.0-experimental-3310209d0:
   version "0.0.0-experimental-3310209d0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-0.0.0-experimental-3310209d0.tgz"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-0.0.0-experimental-3310209d0.tgz#da24ddc969d34406d25210c88ba6d33c101532fa"
   integrity sha512-5Ibs6pnu5rrEgq6gTVHjnMlIFiOFHpTeLbPcqPjnFnAX7WR06+rJK32lW5U13ktmpzqUdGruwE5oweWI7uPQhA==
   dependencies:
     loose-envify "^1.1.0"
@@ -9022,7 +9022,7 @@ react-scripts@4.0.1:
 
 react@^0.0.0-experimental-3310209d0:
   version "0.0.0-experimental-3310209d0"
-  resolved "https://registry.npmjs.org/react/-/react-0.0.0-experimental-3310209d0.tgz"
+  resolved "https://registry.yarnpkg.com/react/-/react-0.0.0-experimental-3310209d0.tgz#1421b0338fbb0c98bbe1ffcaaf88d101209d7194"
   integrity sha512-TVDPZZ2rbxtbIlb3knyqXG1ij8veXpMTzxWmJC/+0POtKSE0HeUNVoQX8j0h0p0rHCKmAfT/mIZaoG9P0bJ+TA==
   dependencies:
     loose-envify "^1.1.0"
