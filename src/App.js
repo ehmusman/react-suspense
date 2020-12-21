@@ -10,5 +10,9 @@ function App() {
     </div>
   );
 }
+const ProfileDetails = () => {
+  const user = resource.user.read();
+
+}
 
 export default App;
